@@ -21,11 +21,20 @@
     
     
    **_Pros:_**
-   -  Everything is clear and concise
-   -  In front of the driver
-   -  Easy to read
-   -  LED Display for night drives
-   -  Seperate Speedometer and Techometer
+   -  Everything is clear and concise.
+   -  In front of the driver.
+   -  Easy to read.
+   -  LED Display for night drives.
+   -  Seperate Speedometer and Techometer.
+  
+  **_Cons:_**
+  - Can be a bit small for some.
+  - the LED Display can be a bit bright.
+
+2. **Toyota Spade**
+
+   ![ToyotaSpade](https://user-images.githubusercontent.com/47511017/115163288-f22f5600-a06d-11eb-8487-3012f0b62aee.jpg)
+
 
 ```markdown
 Syntax highlighted code block
