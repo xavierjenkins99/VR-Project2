@@ -1,17 +1,28 @@
 
 
-# **Car DashBoards**
+# Car DashBoards
 
-  ## Car DashBoard Uses
 
-  - Displaying bits of information to the driver
-  - Speed and RPM display
-  - Concise area for having an all-in-one spot for the driver to keep track of their car
-  - Easy to read for quick access to car info
+
+## Car DashBoard Uses
+
+- Displaying bits of information to the driver
+- Speed and RPM display
+- Concise area for having an all-in-one spot for the driver to keep track of their car
+- Easy to read for quick access to car info
 
 ## Car Dashboard Examples (in order of Best to Worst)
 
-1.
+1. **Honda Fit**
+   ![Image](https://github.com/xavierjenkins99/VR-Project2/blob/main/HondaFit2016.jpg)
+    
+    
+   __Pros:__
+   -  Everything is clear and concise
+   -  In front of the driver
+   -  Easy to read
+   -  LED Display for night drives
+   -  Seperate Speedometer and Techometer
 
 ```markdown
 Syntax highlighted code block
