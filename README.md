@@ -62,6 +62,18 @@
    - Above Center console and in middle of car
    - Could cause possible distraction as driver has to look to the right in order to check lights
 
+4. **Toyota Prius**
+
+   ![ToyotaPrius](https://user-images.githubusercontent.com/47511017/115165211-78e63200-a072-11eb-828b-c68a3f2103e0.jpg)
+
+   
+   **_Pros_**
+   - Slender design
+   **_Cons_**
+   - Is above center console and be a distraction
+   - Could be hard to read for some drivers
+
+
 ```markdown
 Syntax highlighted code block
 
