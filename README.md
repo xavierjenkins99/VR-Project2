@@ -1,29 +1,17 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/xavierjenkins99/VR-Project2/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# **Car DashBoards**
 
-### Markdown
+  ## Car DashBoard Uses
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+  - Displaying bits of information to the driver
+  - Speed and RPM display
+  - Concise area for having an all-in-one spot for the driver to keep track of their car
+  - Easy to read for quick access to car info
 
-# Car DashBoards
+## Car Dashboard Examples (in order of Best to Worst)
 
-## Car DashBoard Uses
-
-- Displaying bits of information to the driver
-- Speed and RPM display
-- Concise area for having an all-in-one spot for the driver to keep track of their car
-- Easy to read for quick access to car info
-
-## Car Dashboard Examples (in order of worst to best)
-
-5. sad
-4. 45
-3. asd
-2. asd
-1. sad
+1.
 
 ```markdown
 Syntax highlighted code block
