@@ -40,7 +40,7 @@
    **_Pros_**
    - The Speedometer is still in front of the viwer
    - Other car info kept with the Speedometer
-   
+
    **_Cons_**
    - It may be in front but speedometer on center console
    - Driver has to move head slightly to look at car info
@@ -56,7 +56,8 @@
    - Speedometer and Techometer kept together
    - Warning lights alongside the meters
    - Colors are muted and not as distracting
-   
+ 
+ 
    **_Cons_**
    - Above Center console and in middle of car
    - Could cause possible distraction as driver has to look to the right in order to check lights
