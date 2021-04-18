@@ -19,7 +19,7 @@
    ![Image](https://github.com/xavierjenkins99/VR-Project2/blob/main/HondaFit2016.jpg)
     
     
-   __Pros:__
+   **_Pros:_**
    -  Everything is clear and concise
    -  In front of the driver
    -  Easy to read
