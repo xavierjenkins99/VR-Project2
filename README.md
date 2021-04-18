@@ -31,10 +31,20 @@
   - Can be a bit small for some.
   - the LED Display can be a bit bright.
 
+
 2. **Toyota Spade**
 
    ![ToyotaSpade](https://user-images.githubusercontent.com/47511017/115163288-f22f5600-a06d-11eb-8487-3012f0b62aee.jpg)
 
+   
+   **_Pros_**
+   - The Speedometer is still in front of the viwer
+   - Other car info kept with the Speedometer
+   
+   **_Cons_**
+   - It may be in front but speedometer on center console
+   - Driver has to move head slightly to look at car info
+   - Can be a great distractiion
 
 ```markdown
 Syntax highlighted code block
