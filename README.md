@@ -56,6 +56,7 @@
    - Speedometer and Techometer kept together
    - Warning lights alongside the meters
    - Colors are muted and not as distracting
+   
    **_Cons_**
    - Above Center console and in middle of car
    - Could cause possible distraction as driver has to look to the right in order to check lights
