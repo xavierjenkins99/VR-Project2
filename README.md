@@ -6,10 +6,18 @@
 
 ## Car DashBoard Uses
 
-- Displaying bits of information to the driver
-- Speed and RPM display
-- Concise area for having an all-in-one spot for the driver to keep track of their car
-- Easy to read for quick access to car info
+- Displaying bits of information to the driver.
+- Speed and RPM display.
+- Concise area for having an all-in-one spot for the driver to keep track of their car.
+- Easy to read for quick access to car info.
+- A display for warning lights and anything wrong with the vehicle.
+- Can display mileage and length of trips ( in certain model cars)
+
+### Controls
+- Turn Signal controls are typically controlled by a handle next to the wheel.
+- Hazard lights are controlled by a single button that will turn on all lights on the dash.
+- On some car models, there is usually a button for controlling volume that is either on the front of the wheel or behind it.
+- Some modern cars have a directional pad on the wheel that lets you modify some options that display on the dash.
 
 ## Car Dashboard Examples (in order of Best to Worst)
 
