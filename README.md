@@ -70,6 +70,7 @@
    **_Pros_**
    - Slender design
    
+   
    **_Cons_**
    - Is above center console and be a distraction
    - Could be hard to read for some drivers
