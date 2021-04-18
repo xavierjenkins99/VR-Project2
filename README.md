@@ -44,7 +44,23 @@
    **_Cons_**
    - It may be in front but speedometer on center console
    - Driver has to move head slightly to look at car info
-   - Can be a great distractiion
+   - Can be a great distraction
+
+3. **Nissan Quest**
+
+   ![NissanQuest](https://user-images.githubusercontent.com/47511017/115163868-27897300-a071-11eb-94ac-8b81b8aae9bb.jpg)
+
+   
+   **_Pros_**
+   - Slender and Sleek design
+   - Speedometer and Techometer kept together
+   - Warning lights alongside the meters
+   - Colors are muted and not as distracting
+
+
+  **_Cons_**
+   - Above Center console and in middle of car
+   - Could cause possible distraction as driver has to look to the right in order to check lights
 
 ```markdown
 Syntax highlighted code block
