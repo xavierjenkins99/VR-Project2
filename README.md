@@ -16,7 +16,8 @@
 1. **Honda Fit**
    
    
-   ![Image](https://github.com/xavierjenkins99/VR-Project2/blob/main/HondaFit2016.jpg)
+  ![HondaFit2016](https://user-images.githubusercontent.com/47511017/115163204-69181f00-a06d-11eb-9985-403f6378349b.jpg)
+
     
     
    **_Pros:_**
