@@ -8,7 +8,22 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-# Here we be testing things out
+# Car DashBoards
+
+## Car DashBoard Uses
+
+- Displaying bits of information to the driver
+- Speed and RPM display
+- Concise area for having an all-in-one spot for the driver to keep track of their car
+- Easy to read for quick access to car info
+
+## Car Dashboard Examples (in order of worst to best)
+
+5. sad
+4. 45
+3. asd
+2. asd
+1. sad
 
 ```markdown
 Syntax highlighted code block
