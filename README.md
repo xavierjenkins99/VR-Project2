@@ -97,6 +97,12 @@
    - No Tachometer can be seen.
    - Very disadvantaged place for the driver.
 
+
+# Solutions
+  - Make sure to keep the Speedometer and Tachometer close.
+  - Keep the warning lights and signals in one area that can be seen by the driver.
+  - 
+
 ```markdown
 Syntax highlighted code block
 
