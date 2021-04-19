@@ -101,32 +101,10 @@
 ## Solutions
   - Make sure to keep the Speedometer and Tachometer close.
   - Keep the warning lights and signals in one area that can be seen by the driver.
-  - 
+  - Make sure everything was condensed and close
 
-```markdown
-Syntax highlighted code block
+### Sketch
 
-# Header 1
-## Header 2
-### Header 3
+   ![20210418_214314](https://user-images.githubusercontent.com/47511017/115174703-59113700-a08f-11eb-883d-9d9ae9ae8ca6.jpg)
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/xavierjenkins99/VR-Project2/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
