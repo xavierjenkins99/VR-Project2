@@ -108,7 +108,8 @@
    
 ## Demo
 
-![HCI2Demo](https://user-images.githubusercontent.com/47511017/115175792-4e57a180-a091-11eb-9660-b78a84a54c07.gif)
+![HCI2Demo](https://user-images.githubusercontent.com/47511017/115175920-9971b480-a091-11eb-9067-4ec50c0c4202.gif)
+
 
 
 
